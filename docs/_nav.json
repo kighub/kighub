@@ -1,0 +1,24 @@
+[
+  {
+    "text": "指南",
+    "link": "/guide/start/introduction",
+    "activeMatch": "/guide/"
+  },
+  {
+    "text": "社区",
+    "link": "/community",
+    "activeMatch": "/community/"
+  },
+  {
+    "text": "娃图",
+    "link": "https://kigmap.com/"
+  },
+  {
+    "text": "KigerMap",
+    "link": "https://kigermap.com/"
+  },
+  {
+    "text": "KigerTool",
+    "link": "https://kigertool.top/"
+  }
+]

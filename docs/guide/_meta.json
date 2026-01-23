@@ -1,0 +1,22 @@
+[
+  {
+    "type": "dir-section-header",
+    "name": "start",
+    "label": "开始"
+  },
+  {
+    "type": "dir-section-header",
+    "name": "customize",
+    "label": "定制"
+  },
+  {
+    "type": "dir-section-header",
+    "name": "role-playing",
+    "label": "角色扮演"
+  },
+  {
+    "type": "dir-section-header",
+    "name": "contributing",
+    "label": "参与KigHub"
+  }
+]
